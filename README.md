@@ -1,6 +1,4 @@
-# WWDC22 Swift Student Challenge (Accepted)
-
-Wholesome is my 2022 Swift Student Challenge Submission (Accepted).
+# Swift Student Challenge
 
 To run this project, please airdrop it to an iPad running iPadOS 15 with Swift Playgrounds 4 installed.
 
